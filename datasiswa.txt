@@ -1,3 +1,0 @@
-12,gi,ab
-1,ardana,mi
-156,bagass,ab
